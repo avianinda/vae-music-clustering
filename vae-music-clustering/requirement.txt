@@ -1,0 +1,15 @@
+
+---
+
+# ✅ `requirements.txt` (FINAL)
+
+This is **minimal, clean, and correct** — no Colab junk, no unnecessary packages.
+
+```txt
+numpy
+pandas
+scikit-learn
+torch
+matplotlib
+seaborn
+umap-learn
